@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 250,
+      "comment": "wonderful",
+      "date": "2022-11-20T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "this is a random product",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 2100,
+      "comment": "hello there",
+      "date": "2022-11-20T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "sansung television",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 200,
+      "comment": "anything",
+      "date": "2022-11-20T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "apple watch",
+      "category": "Electronics",
+      "freshness": "brand New",
+      "price": 45000,
+      "comment": "this is a very good item",
+      "date": "2022-11-15T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 30,
+      "comment": "wonderful fruits",
+      "date": "2022-11-20T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
